@@ -1,4 +1,4 @@
 nginx
 #支持私库
-pixman/pixman:1.0.0
+pixman/pixman:latest
 
