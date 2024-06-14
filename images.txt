@@ -1,4 +1,6 @@
 nginx
 #支持私库
 pixman/pixman:latest
+wechatofficial/o11:latest
+
 
