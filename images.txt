@@ -3,4 +3,4 @@ nginx
 pixman/pixman:latest
 wechatofficial/o11:latest
 tensorchord/pgvecto-rs:pg16-v0.2.1
-
+jc21/nginx-proxy-manager:latest
